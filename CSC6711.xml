@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>CSC 6711: Software Architecture - Required Reading</title>
-    <link>https://drive.google.com/drive/folders/your-link-here?usp=drive_link</link>
+    <link>https://drive.google.com/drive/folders/13BkBgHBTx87DqVvAwtt_v7-dBbFotYoI?usp=drive_link</link>
     <description>Required audio readings for CSC 6711: Software Architecture course at MSOE.</description>
     <language>en-us</language>
     <itunes:author>MSOE</itunes:author>
-    <itunes:summary>These episodes contain the required audio readings for CSC 6711: Software Architecture course at MSOE.</itunes:summary>
+    <itunes:summary>These episodes contain the required audio readings for CSC 6711: Recommender Systems course at MSOE.</itunes:summary>
     <itunes:category text="Education"/>
     <itunes:image href="https://drive.usercontent.google.com/download?id=1sLJ4uxMtXJsfQxZ9dKRWnaKVHWO2VbMZ&amp;export=download&amp;confirm=t&amp;uuid=e0557e08-b914-4d6a-bef0-0fa27141dc85" />
 
