@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>CSC 6711: Software Architecture - Required Reading</title>
+    <link>https://drive.google.com/drive/folders/your-link-here?usp=drive_link</link>
+    <description>Required audio readings for CSC 6711: Software Architecture course at MSOE.</description>
+    <language>en-us</language>
+    <itunes:author>MSOE</itunes:author>
+    <itunes:summary>These episodes contain the required audio readings for CSC 6711: Software Architecture course at MSOE.</itunes:summary>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://drive.usercontent.google.com/download?id=1sLJ4uxMtXJsfQxZ9dKRWnaKVHWO2VbMZ&amp;export=download&amp;confirm=t&amp;uuid=e0557e08-b914-4d6a-bef0-0fa27141dc85" />
+
+    <item>
+      <title>CSC6711 Chapter 9: Evaluating and Testing Your Recommender - Practical Recommender Systems by Kim Falk</title>
+      <description>Required reading on Chapter 9: Evaluating and Testing Your Recommender for CSC 6711 from the book Practical Recommender Systems by Kim Falk.</description>
+      <pubDate>Mon, 30 Sep 2024 10:00:00 GMT</pubDate>
+      <enclosure url="https://drive.usercontent.google.com/download?id=1XAWW1t8EpJ451dtQFZdcxGEfBa935w7l&amp%3Bexport=download&amp%3Bconfirm=t&amp%3Buuid=e0557e08-b914-4d6a-bef0-0fa27141dc85&confirm=t&uuid=7d1e8dd5-4ef0-482b-b76f-74fc247d7cbc&at=AN_67v2STMcVOirACEUzDhBwau-l%3A1727717814693" length="4924207" type="audio/mpeg"/>
+      <guid isPermaLink="false">combined_Chapter9.mp3</guid>
+      <itunes:duration>4927</itunes:duration>
+    </item>
+    
+  </channel>
+</rss>
